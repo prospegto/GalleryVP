@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+   <item android:id="@+id/fotoAnterior"
+        android:title="@string/anterior"
+        android:showAsAction="ifRoom|withText" />
+   
+    <item android:id="@+id/fotoSiguiente"
+        android:title="@string/siguiente"
+        android:showAsAction="ifRoom|withText" />
+</menu>
